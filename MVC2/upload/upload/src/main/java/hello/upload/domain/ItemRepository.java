@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @Repository
-public class  ItemRepository {
+public class ItemRepository {
 
     private final Map<Long, Item> store = new HashMap<>();
     private long sequence = 0L;
