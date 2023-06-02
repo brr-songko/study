@@ -6,6 +6,6 @@
 //@Getter
 //@Setter
 //public class Hello {
-// 테스트 수정 ㅇㅇ
+// 테스트 수정 ㅇㅇ ㅇㅇ
 //    private String data;
 //}

@@ -20,7 +20,7 @@ class MemberServiceTest {
 
     @Autowired MemberService memberService;
     @Autowired MemberRepository memberRepository;
- 
+
     @Test
     public void 회원가입() throws Exception{
         //given
